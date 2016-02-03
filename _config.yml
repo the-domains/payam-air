@@ -1,6 +1,6 @@
 name: 'PAYAM AIR '
 favicon: null
-layout_spectrum: 0.7255906728096306
+layout_spectrum: 0.75529
 typography_spectrum: 0.639801234472543
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#ffffff'
+    - '#2c6ab5'
+    - '#88abd5'
+    - '#f1f5fa'
+    - '#dde7f3'
   brandStrength: 0.2864492617081851
   lightness: 0.2597544987220317
   saturation: 0.4983164402656257
